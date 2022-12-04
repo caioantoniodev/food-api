@@ -1,4 +1,4 @@
-package com.study.foodapi;
+package com.foodapi.foodapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
